@@ -1,0 +1,3 @@
+[submodule "git-lesson-sub"]
+	path = git-lesson-sub
+	url = git@github.com:mokelab/git-lesson-sub.git
